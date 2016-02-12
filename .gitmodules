@@ -81,13 +81,13 @@
 	url = git@github.com:ardumont/php-pack.git
 [submodule "ctags-pack"]
 	path = ctags-pack
-	url = git@github.com:ardumont/ctags-pack.git
+	url = git@github.com:biderbek/ctags-pack.git
 [submodule "stumpwm-pack"]
 	path = stumpwm-pack
 	url = git@github.com:ardumont/stumpwm-pack.git
 [submodule "theme-pack"]
 	path = theme-pack
-	url = git@github.com:ardumont/theme-pack.git
+	url = git@github.com:biderbek/theme-pack.git
 [submodule "prelude-live-pack"]
 	path = prelude-live-pack
 	url = git@github.com:ardumont/prelude-live-pack.git
